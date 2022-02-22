@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = MISA.AmisTCDN.Web12
+build_property.ProjectDir = E:\MISAA\MS.WEB2021_12\mf1035-duyhv\HuaVanDuy_Misa_12\MISA.AmisTCDN.Web12\

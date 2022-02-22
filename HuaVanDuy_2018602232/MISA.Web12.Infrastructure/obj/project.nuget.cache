@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y92qFbELPiIsOBfHwZ3gLDLEaTvjqGrMaDj+38mMChfkB04qLLzb3QmOwSxgrTdLW5wNhotZv8efE3b1icoMvw==",
+  "success": true,
+  "projectFilePath": "E:\\MISAA\\TCDN\\DETHI\\Web12-MF1035-HVDUY\\HuaVanDuy_2018602232\\MISA.Web12.Infrastructure\\MISA.Web12.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\mysqlconnector\\2.1.2\\mysqlconnector.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
